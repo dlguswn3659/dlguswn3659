@@ -1,3 +1,5 @@
+[![9oormthon.badge](https://9oormthon-badge.minung.dev/badge.svg?text=NolNol-9oorm&speed=1)](https://9oormthon-badge.minung.dev)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlguswn3659&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlguswn3659&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
