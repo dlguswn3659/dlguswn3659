@@ -1,4 +1,3 @@
-[![9oormthon.badge](https://9oormthon-badge.minung.dev/badge.svg?text=NolNol-9oorm&speed=1)](https://9oormthon-badge.minung.dev)
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -44,9 +43,21 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+  <br>  
+  <br>
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlguswn3659&show_icons=true&theme=dracula)
+<div align=center><h1>👩‍💻 My Github Stats 👩‍💻</h1></div>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlguswn3659&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br>
+<div align=center><h1>🎖️ Badges 🎖️</h1></div>
+<div align=center>
+  
+  [![9oormthon.badge](https://9oormthon-badge.minung.dev/badge.svg?text=NolNol-9oorm&speed=1)](https://9oormthon-badge.minung.dev)
+</div>
 
 <!--
 **dlguswn3659/dlguswn3659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
