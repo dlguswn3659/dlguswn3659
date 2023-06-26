@@ -46,12 +46,16 @@
   <br>  
   <br>
 </div>
-
+<!--
 <div align=center><h1>👩‍💻 My Github Stats 👩‍💻</h1></div>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlguswn3659&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!--https://github-readme-stats-git-addpercentilerankicon-rickstaa.vercel.app/api?username=dlguswn3659&rank_icon=percentile&include_all_commits=true-->
+<!--https://github-readme-stats.vercel.app/api?username=dlguswn3659&show_icons=true&theme=dracula&include_all_commits=true-->
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlguswn3659&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+-->
 <br>
 <div align=center><h1>🎖️ Badges 🎖️</h1></div>
 <div align=center>
